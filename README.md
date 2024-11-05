@@ -1,8 +1,6 @@
 # Investment-Evaluator
 Evaluate whether you should invest in a company just by uploading a pdf
-Here's a structured README file for your project that explains the purpose and details of each code chunk. You can copy and paste this into a `README.md` file in your GitHub repository.
 
-```markdown
 # Financial Document Analysis using GPT
 
 ## Overview
