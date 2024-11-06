@@ -137,7 +137,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 We welcome contributions! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
-For any queries, please reach out to [your-email@example.com]
+For any queries, please reach out to me.
 
 ---
 ⭐ Don't forget to star this repo if you found it useful! ⭐
